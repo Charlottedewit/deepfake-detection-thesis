@@ -8,7 +8,7 @@ This repository contains the Jupyter Notebook for the master's thesis:
 
 ---
 
-## 📘 Thesis Overview
+## Thesis Overview
 
 This thesis compares three deep learning models:
 - XceptionNet
@@ -24,7 +24,7 @@ These models are evaluated on the Face Deepfake Detection Challenge (FDDC) datas
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 You can run the notebook in Google Colab or locally in Jupyter Lab.
 
@@ -37,16 +37,14 @@ pip install -r requirements.txt
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 We use the **Face Deepfake Detection Challenge (FDDC)** dataset. You must request access via:  
 ➡️ [FDDC Dataset](https://github.com/aimagelab/Face-Deepfake-Detection-Challenge)
 
-*Note: The dataset is not included in this repo due to license restrictions.*
-
 ---
 
-## 🔧 Main Dependencies
+## Main Dependencies
 
 - tensorflow==2.12.0  
 - scikit-learn==1.3.0  
@@ -55,10 +53,6 @@ We use the **Face Deepfake Detection Challenge (FDDC)** dataset. You must reques
 
 ---
 
-## 📜 License
-
-MIT License *(optional)*
-
-## 🤖 AI Assistance Disclosure
+## AI Assistance Disclosure
 
 ChatGPT (OpenAI, GPT-4) was used to help write and debug code. All output was manually reviewed and revised.
