@@ -8,7 +8,7 @@ This repository contains the Jupyter Notebook supporting the master's thesis:
 
 ---
 
-## 📘 Thesis Overview
+## Thesis Overview
 
 This thesis investigates and compares the performance of three deep learning models for deepfake image detection:
 
@@ -26,11 +26,11 @@ These models are evaluated on the Face Deepfake Detection Challenge (FDDC) datas
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 You can run the notebook in [Google Colab](https://colab.research.google.com) (recommended) or locally in Jupyter Lab.
 
-### ✅ To run locally:
+### To run locally:
 ```bash
 pip install -r requirements.txt
 ```
@@ -42,17 +42,17 @@ jupyter notebook
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 This project uses the **Face Deepfake Detection Challenge (FDDC)** dataset.
 
 Due to licensing restrictions, the dataset is not included in this repository.  
 You must request access at:  
-➡️ [FDDC Dataset – GitHub Page](https://github.com/aimagelab/Face-Deepfake-Detection-Challenge)
+[FDDC Dataset]([https://iplab.dmi.unict.it/deepfakechallenge/])
 
 ---
 
-## 🧪 Main Dependencies
+## Main Dependencies
 
 - `tensorflow==2.12.0`  
 - `scikit-learn==1.3.0`  
@@ -63,23 +63,23 @@ For full details, see [`requirements.txt`](./requirements.txt).
 
 ---
 
-## 🤖 AI Assistance Disclosure
+## AI Assistance Disclosure
 
 This codebase was developed by the author with support from **ChatGPT (OpenAI, GPT-4)** for code generation and debugging. All outputs were manually reviewed and integrated by the author. The use of AI tools is disclosed in accordance with academic integrity guidelines.
 
 ---
 
-## 📄 License
+## License
 
 This repository is released under the [MIT License](./LICENSE), unless otherwise specified.  
 Pretrained models used from TensorFlow Keras Applications are licensed under the Apache 2.0 License.
 
 ---
 
-## 📎 Citation
+## Citation
 
 If you use this work in your research, please cite the thesis or repository as follows (example):
 
 ```
-de Wit, C. (2025). Detecting Deepfake Images Using Deep Learning. MSc Thesis, Tilburg University. GitHub Repository: https://github.com/YOUR-USERNAME/deepfake-detection-thesis
+de Wit, C. (2025). Detecting Deepfake Images Using Deep Learning. MSc Thesis, Tilburg University. GitHub Repository: https://github.com/Charlottedewit/deepfake-detection-thesis
 ```
