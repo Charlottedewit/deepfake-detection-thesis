@@ -21,7 +21,6 @@ These models are evaluated on the Face Deepfake Detection Challenge (FDDC) datas
 - Stratified K-Fold Cross-Validation
 - Bias analysis across GAN architectures
 - Saliency map visualizations for interpretability
-- Effect size estimation using Cohen’s *d*
 - Performance testing under image distortions (blur, noise, compression, rotation)
 
 ---
